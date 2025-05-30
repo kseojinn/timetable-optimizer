@@ -251,11 +251,9 @@ Issues 탭에서 다음 정보와 함께 신고해 주세요:
 
 ## 👨‍💻 개발자
 
-**Seojin Kim** ([@kseojinn](https://github.com/kseojinn))
+**Seojin Kang** ([@kseojinn](https://github.com/kseojinn))
 
-- 📧 Email: [이메일 주소]
-- 🌐 Website: [개인 웹사이트]
-- 💼 LinkedIn: [LinkedIn 프로필]
+- 📧 Email: kseojin0205@sungkyul.ac.kr
 
 ## 🌟 Star History
 

@@ -1,0 +1,70 @@
+{
+  "student_id": "2023081234",
+  "name": "김철수",
+  "current_year": 3,
+  "major": "컴퓨터공학과",
+  "completed_courses": ["01605", "01353", "21702", "20405", "17856"],
+  "current_credits": 86,
+  "target_credits_this_semester": 18,
+  "min_credits": 18,
+  "max_credits": 18,
+  
+  "preferences": {
+    "preferred_times": [],
+    "avoid_times": [],
+    "preferred_professors": [],
+    "avoid_professors": [],
+    "lunch_time_required": true,
+    "lunch_preferred_periods": [5, 6],
+    "max_consecutive_classes": 3,
+    "preferred_areas": []
+  },
+  
+  "constraints": {
+    "required_courses": ["01308", "21652", "17960"],
+    "prerequisite_rules": {
+      "01605": [],
+      "01364": [],
+      "20356": ["01605"],
+      "17960": ["01364", "01605"],
+      "18264": ["01605"]
+    },
+    "year_restrictions": {
+      "1": ["전필", "전선", "교선"],
+      "2": ["전필", "전선", "교선"],
+      "3": ["전필", "전선", "교선"],
+      "4": ["전필", "전선", "교선"]
+    },
+    "area_requirements": {
+      "1영역": 1,
+      "2영역": 1,
+      "3영역": 1,
+      "4영역": 1
+    }
+  },
+  
+  "wanted_courses": [
+    {
+      "course_code": "18337",
+      "priority": 7,
+      "sections": [],
+      "reason": "영어 실력 함량"
+    }
+  ],
+  
+  "cost_function_weights": {
+    "time_conflict": 1000, 
+    "prerequisite_violation": 1000,
+    "credit_shortage": 300,
+    "credit_excess": 200,
+    "required_course_missing": 800,
+    "consecutive_classes": 50,
+    "non_preferred_time": 30,
+    "avoid_time_violation": 100,
+    "lunch_time_violation": 80,
+    "non_preferred_professor": 20,
+    "area_requirement_violation": 150,
+    "low_priority_course": 10,
+    "free_days_bonus": 500
+  }
+}

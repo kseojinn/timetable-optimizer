@@ -255,16 +255,6 @@ Issues 탭에서 다음 정보와 함께 신고해 주세요:
 
 - 📧 Email: kseojin0205@sungkyul.ac.kr
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kseojinn/timetable-optimizer&type=Date)](https://star-history.com/#kseojinn/timetable-optimizer&Date)
-
----
-
-<div align="center">
-
-**⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요! ⭐**
-
 **🎯 완벽한 시간표로 여유로운 대학생활을! 🎯**
 
 </div>

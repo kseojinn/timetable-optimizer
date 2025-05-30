@@ -117,14 +117,14 @@ python main.py
 {
   "courses": [
     {
-      "course_code": "01605",
-      "section": "001", 
+      "course_code": "",
+      "section": "", 
       "course_name": "데이터베이스",
       "credits": 3,
-      "professor": "한경수",
-      "schedule": "수4-6",
-      "classroom": "성405(컴공)",
-      "category": "전필",
+      "professor": "",
+      "schedule": "",
+      "classroom": "",
+      "category": "",
       "area": "",
       "year_level": 2
     }
@@ -135,12 +135,12 @@ python main.py
 **2. data/user_profile.json** - 개인 설정
 ```json
 {
-  "name": "김학생",
-  "current_year": 2,
+  "name": "",
+  "current_year": 3,
   "target_credits_this_semester": 18,
-  "required_courses": ["01364", "01605"],
+  "required_courses": [],
   "preferences": {
-    "preferred_times": ["월4-6", "화4-6"],
+    "preferred_times": [],
     "lunch_time_required": true,
     "max_consecutive_classes": 3
   }
@@ -187,14 +187,18 @@ sa_optimizer.max_iterations = 1000         # 최대 반복
 
 ```
 === 최적 시간표 ===
-1. 컴퓨터네트워크 (01364-002)
-   교수: 최정열, 학점: 3, 시간: 월4-6
+1. 컴퓨터네트워크 ()
+   교수: , 학점: 3, 시간: 
    
-2. 데이터베이스 (01605-001)  
-   교수: 한경수, 학점: 3, 시간: 수4-6
+2. 데이터베이스 ()  
+   교수: , 학점: 3, 시간:
    
-3. 교양영어회화 (18337-001)
-   교수: CHANG INSOOK, 학점: 3, 시간: 월1-3
+3. 교양영어회화 ()
+   교수: , 학점: 3, 시간:
+
+4
+5.
+6.
 
 총 학점: 18
 

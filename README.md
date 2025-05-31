@@ -227,23 +227,10 @@ Issues 탭에서 다음 정보와 함께 신고해 주세요:
 - 에러 메시지 전문
 - `results/latest_log.txt` 내용
 
-### 💡 기능 제안
+### 💡 추후 기능 제안
 - 새로운 최적화 알고리즘 (유전 알고리즘, 타부 서치 등)
 - 웹 인터페이스 개발
 - 다른 대학 시간표 형식 지원
-
-### 🔧 코드 기여
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📖 관련 논문 및 자료
-
-- Kirkpatrick, S. et al. (1983). "Optimization by simulated annealing"
-- Russell, S. & Norvig, P. (2020). "Artificial Intelligence: A Modern Approach"
-- Burke, E. K. & Petrovic, S. (2002). "Recent research directions in automated timetabling"
 
 ## 📜 라이선스
 

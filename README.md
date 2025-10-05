@@ -60,7 +60,6 @@ timetable-optimizer/
 
 ### 요구사항
 - Python 3.8 이상
-- Git (선택사항)
 
 ### 클론 및 설치
 

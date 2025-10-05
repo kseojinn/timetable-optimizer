@@ -85,16 +85,16 @@ pip install -r requirements.txt
 mkdir data results
 ```
 
-## 🎮 사용 방법
+## 사용 방법
 
-### ⚡ 빠른 시작
+### 빠른 시작
 
 ```bash
 # 기본 실행
 python main.py
 ```
 
-### 📝 설정 파일 준비
+### 설정 파일 준비
 
 **1. data/courses.json** - 과목 데이터
 ```json

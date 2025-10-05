@@ -4,10 +4,6 @@
 
 **Automatic Timetable Generation System using Simulated Annealing**
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kseojinn/timetable-optimizer/graphs/commit-activity)
-
 ## 프로젝트 소개
 
 대학생들이 매 학기 겪는 복잡한 시간표 작성 문제를 **인공지능 최적화 알고리즘**으로 해결합니다.
